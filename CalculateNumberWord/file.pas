@@ -1,4 +1,4 @@
-program task1;
+program CalculateNumberWord;
 var  SomeText:string;NumWord,LengthText,iterator:integer;
 begin
 

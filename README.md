@@ -1,2 +1,6 @@
 # Pascal
-Tasks4Lessons
+**Tasks4Lessons**
+======================================
+Тут будут выложены задание на Pascal'e.
+Программный код скомпилирован и протестирован в [FreePascal](www.freepascal.org).
+ 
